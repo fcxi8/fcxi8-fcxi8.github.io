@@ -40,8 +40,3 @@ e.g
 export WECHALLUSER="fcxi8"
 export WECHALLTOKEN="00000-00000-00000-00000-00000-00000"
 ```
-
-
-https://askubuntu.com/questions/211716/add-environment-variable-to-bashrc-through-script
-
-https://askubuntu.com/questions/211716/add-environment-variable-to-bashrc-through-script
