@@ -1,6 +1,6 @@
 ---
 title: "Setting up OverTheWire and WeChall scoreboard"
-date: 2024-1210
+date: 2024-12-10
 ---
 
 ---
@@ -40,3 +40,8 @@ e.g
 export WECHALLUSER="fcxi8"
 export WECHALLTOKEN="00000-00000-00000-00000-00000-00000"
 ```
+
+
+https://askubuntu.com/questions/211716/add-environment-variable-to-bashrc-through-script
+
+https://askubuntu.com/questions/211716/add-environment-variable-to-bashrc-through-script
