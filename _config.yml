@@ -1,0 +1,6 @@
+title: fcxi8 - Pentesting and cybersecurity blog
+description: Notes, learnings and ramblings from a pentester and cybersecurity student
+show_downloads: false
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
